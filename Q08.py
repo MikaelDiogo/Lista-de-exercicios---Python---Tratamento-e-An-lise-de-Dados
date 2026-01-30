@@ -1,0 +1,5 @@
+a = float(input())
+b = float(input())
+c = float(input())
+print("O maior número é:", max(a, b, c))
+print("O menor número é:", min(a, b, c))
